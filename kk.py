@@ -1,1 +1,1 @@
-print("jai hind")
+print("jai hind,jai bharat")
